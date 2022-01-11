@@ -6,3 +6,15 @@ Being able to accurately forecast the next user's activities may be of particula
 <p align="center">
   <img src="https://github.com/SimoMessek/IBM_Capston_Project_Prediction_of_Gamers_Behavior_Algorithms/blob/master/Model_scheme.png">
 </p>
+
+<b>Dependencies</b>
+<ul>
+  <li> IBM Cloud Pak </li>
+</ul>
+
+<b>Link</b>
+<ul>
+  <li>https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/f7761f54-4aff-4804-9b7d-1b670855d24c/view?access_token=1c2a00b7484c21e19b48f712c01b3c0bc5a699d816c3ddec2d1f086b00b87a0b</li>
+</ul>
+
+Developed in collaboration with <a href="https://github.com/SimoMessek">Simo Messek</a>
