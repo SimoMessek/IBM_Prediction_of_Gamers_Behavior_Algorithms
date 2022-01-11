@@ -7,6 +7,13 @@ Being able to accurately forecast the next user's activities may be of particula
   <img src="https://github.com/SimoMessek/IBM_Capston_Project_Prediction_of_Gamers_Behavior_Algorithms/blob/master/Model_scheme.png">
 </p>
 
+Understanding these profiles and learning from them comprise the
+first step for conditioning the behavior of gamers to optimize these
+metrics, and to ultimately increase the overall performance of the
+game. To do so, the company can take an active role so that users from
+a certain profile can move to other profiles providing better metrics or
+higher revenues.
+
 <b>Dependencies</b>
 <ul>
   <li> IBM Cloud Pak </li>
